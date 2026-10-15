@@ -1,0 +1,7 @@
+(()=>{'use strict';
+const primary=['home','gacha','world','team','collection','dex'];
+const groups=[['Chiến đấu',['boss','tower','arena','pve','battle']],['Phát triển',['fusion','egg','craft','relics','monsters','counters','balance84']],['Tiến trình',['quests','profile','achieve','settings','admin']]];
+function tidyNavigation(){const nav=document.getElementById('nav');if(!nav)return;nav.setAttribute('aria-label','Điều hướng game');nav.innerHTML=primary.map(id=>{const item=menus.find(m=>m[0]===id);return `<button class="${page===id?'active':''}" ${page===id?'aria-current="page"':''} onclick="SP.go('${id}')">${safeText(item[1].replace(/^\S+\s/,''))}</button>`}).join('');
+ const label=document.createElement('label');label.htmlFor='more-menu';label.textContent='Chức năng khác';const select=document.createElement('select');select.id='more-menu';select.setAttribute('aria-label','Chức năng khác');select.innerHTML='<option value="">Chức năng khác…</option>'+groups.map(([title,ids])=>`<optgroup label="${title}">${ids.map(id=>{const item=menus.find(m=>m[0]===id);return item?`<option value="${id}" ${page===id?'selected':''}>${safeText(item[1].replace(/^\S+\s/,''))}</option>`:''}).join('')}</optgroup>`).join('');select.addEventListener('change',()=>{if(select.value)SP.go(select.value)});nav.append(label,select);}
+const before=render;render=function(){before();tidyNavigation()};render();
+})();
