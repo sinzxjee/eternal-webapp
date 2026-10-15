@@ -1,0 +1,7706 @@
+{
+  "game": "ETERNAL",
+  "version": "singleplayer-profiles-v1",
+  "total": 150,
+  "counts": {
+    "C": 40,
+    "UC": 30,
+    "R": 25,
+    "SR": 20,
+    "SSR": 15,
+    "UR": 12,
+    "EX": 8
+  },
+  "monsters": [
+    {
+      "id": "C_001",
+      "name": "Slime Xanh",
+      "displayName": "Slime Xanh",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_001.png",
+      "elementTypes": [
+        "Nước"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thể Nhầy",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 49,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thể Nhầy · C · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_002",
+      "name": "Nấm Đốm Đỏ",
+      "displayName": "Nấm Đốm Đỏ",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_002.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thực Vật",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 49,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thực Vật · C · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_003",
+      "name": "Mầm Lá Bé",
+      "displayName": "Mầm Lá Bé",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_003.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thực Vật",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 49,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thực Vật · C · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_004",
+      "name": "Sỏi Golem",
+      "displayName": "Sỏi Golem",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_004.png",
+      "elementTypes": [
+        "Đất"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Nham Thạch",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 260,
+        "atk": 43,
+        "def": 22,
+        "mag": 32,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Nham Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Đất"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Nham Thạch · C · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_005",
+      "name": "Dơi Đêm Nhí",
+      "displayName": "Dơi Đêm Nhí",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_005.png",
+      "elementTypes": [
+        "Bóng Tối"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 65,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_006",
+      "name": "Tia Chớp Vàng",
+      "displayName": "Tia Chớp Vàng",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_006.png",
+      "elementTypes": [
+        "Lôi"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 65,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Lôi Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lôi"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_007",
+      "name": "Bông Tuyết Con",
+      "displayName": "Bông Tuyết Con",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_007.png",
+      "elementTypes": [
+        "Băng"
+      ],
+      "roles": [
+        "Khống Chế"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 49,
+        "res": 13,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_008",
+      "name": "Mai Mầm",
+      "displayName": "Mai Mầm",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_008.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 260,
+        "atk": 43,
+        "def": 22,
+        "mag": 32,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_009",
+      "name": "Than Lửa Bé",
+      "displayName": "Than Lửa Bé",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_009.png",
+      "elementTypes": [
+        "Lửa"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_010",
+      "name": "Sứa Ngọc",
+      "displayName": "Sứa Ngọc",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_010.png",
+      "elementTypes": [
+        "Nước"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Hải Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 49,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Hải Tộc · C · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_011",
+      "name": null,
+      "displayName": "C_011",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_011.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_012",
+      "name": null,
+      "displayName": "C_012",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_012.png",
+      "elementTypes": [
+        "Bóng Tối"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 65,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_013",
+      "name": null,
+      "displayName": "C_013",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_013.png",
+      "elementTypes": [
+        "Nước"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_014",
+      "name": null,
+      "displayName": "C_014",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_014.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 49,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_015",
+      "name": null,
+      "displayName": "C_015",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_015.png",
+      "elementTypes": [
+        "Gió"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Điểu Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 65,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Phong Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Gió"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Điểu Tộc · C · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_016",
+      "name": null,
+      "displayName": "C_016",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_016.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 260,
+        "atk": 43,
+        "def": 22,
+        "mag": 32,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_017",
+      "name": null,
+      "displayName": "C_017",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_017.png",
+      "elementTypes": [
+        "Tiên"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Hồ Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 49,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Linh Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Tiên"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Hồ Tộc · C · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_018",
+      "name": null,
+      "displayName": "C_018",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_018.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Khống Chế"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 49,
+        "res": 13,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · C · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_019",
+      "name": null,
+      "displayName": "C_019",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_019.png",
+      "elementTypes": [
+        "Lôi"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Côn Trùng",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 65,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Lôi Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lôi"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Côn Trùng · C · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_020",
+      "name": null,
+      "displayName": "C_020",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_020.png",
+      "elementTypes": [
+        "Gió"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Phong Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Gió"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · C · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_021",
+      "name": null,
+      "displayName": "C_021",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_021.png",
+      "elementTypes": [
+        "Đất"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Nham Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Đất"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_022",
+      "name": null,
+      "displayName": "C_022",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_022.png",
+      "elementTypes": [
+        "Băng"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 65,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_023",
+      "name": null,
+      "displayName": "C_023",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_023.png",
+      "elementTypes": [
+        "Lửa"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Nham Thạch",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 260,
+        "atk": 43,
+        "def": 22,
+        "mag": 32,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Nham Thạch · C · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_024",
+      "name": null,
+      "displayName": "C_024",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_024.png",
+      "elementTypes": [
+        "Bóng Tối"
+      ],
+      "roles": [
+        "Pháp Sư"
+      ],
+      "clan": "Linh Thể",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 36,
+        "def": 12,
+        "mag": 49,
+        "res": 13,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Linh Thể · C · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_025",
+      "name": null,
+      "displayName": "C_025",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_025.png",
+      "elementTypes": [
+        "Tiên"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 49,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Linh Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Tiên"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_026",
+      "name": null,
+      "displayName": "C_026",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_026.png",
+      "elementTypes": [
+        "Nước"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_027",
+      "name": null,
+      "displayName": "C_027",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_027.png",
+      "elementTypes": [
+        "Lửa"
+      ],
+      "roles": [
+        "Pháp Sư"
+      ],
+      "clan": "Điểu Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 36,
+        "def": 12,
+        "mag": 49,
+        "res": 13,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Điểu Tộc · C · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_028",
+      "name": null,
+      "displayName": "C_028",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_028.png",
+      "elementTypes": [
+        "Bóng Tối"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 65,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_029",
+      "name": null,
+      "displayName": "C_029",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_029.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Khống Chế"
+      ],
+      "clan": "Côn Trùng",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 49,
+        "res": 13,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Côn Trùng · C · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_030",
+      "name": null,
+      "displayName": "C_030",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_030.png",
+      "elementTypes": [
+        "Băng"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · C · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_031",
+      "name": null,
+      "displayName": "C_031",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_031.png",
+      "elementTypes": [
+        "Lửa"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 65,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_032",
+      "name": null,
+      "displayName": "C_032",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_032.png",
+      "elementTypes": [
+        "Băng"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Hồ Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 49,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Hồ Tộc · C · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_033",
+      "name": null,
+      "displayName": "C_033",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_033.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 260,
+        "atk": 43,
+        "def": 22,
+        "mag": 32,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_034",
+      "name": null,
+      "displayName": "C_034",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_034.png",
+      "elementTypes": [
+        "Bóng Tối"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · C · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_035",
+      "name": null,
+      "displayName": "C_035",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_035.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 49,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_036",
+      "name": null,
+      "displayName": "C_036",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_036.png",
+      "elementTypes": [
+        "Nước"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thực Vật",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 49,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thực Vật · C · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_037",
+      "name": null,
+      "displayName": "C_037",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_037.png",
+      "elementTypes": [
+        "Đất"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 65,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Nham Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Đất"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · C · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_038",
+      "name": null,
+      "displayName": "C_038",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_038.png",
+      "elementTypes": [
+        "Đất"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Cơ Giới",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 260,
+        "atk": 43,
+        "def": 22,
+        "mag": 32,
+        "res": 21,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Nham Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Đất"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Cơ Giới · C · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_039",
+      "name": null,
+      "displayName": "C_039",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_039.png",
+      "elementTypes": [
+        "Gió"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Điểu Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 32,
+        "res": 13,
+        "spd": 65,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Phong Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Gió"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Điểu Tộc · C · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "C_040",
+      "name": null,
+      "displayName": "C_040",
+      "rarity": "C",
+      "imagePath": "monsters/C/C_040.png",
+      "elementTypes": [
+        "Lửa"
+      ],
+      "roles": [
+        "Khống Chế"
+      ],
+      "clan": "Côn Trùng",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 180,
+        "atk": 43,
+        "def": 12,
+        "mag": 49,
+        "res": 13,
+        "spd": 42,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Côn Trùng · C · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_001",
+      "name": null,
+      "displayName": "UC_001",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_001.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 36,
+        "res": 15,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_002",
+      "name": null,
+      "displayName": "UC_002",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_002.png",
+      "elementTypes": [
+        "Lửa"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 36,
+        "res": 15,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_003",
+      "name": null,
+      "displayName": "UC_003",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_003.png",
+      "elementTypes": [
+        "Nước"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 36,
+        "res": 15,
+        "spd": 73,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        },
+        {
+          "id": "skill",
+          "name": "Thủy Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_004",
+      "name": null,
+      "displayName": "UC_004",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_004.png",
+      "elementTypes": [
+        "Bóng Tối"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 36,
+        "res": 15,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · UC · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_005",
+      "name": null,
+      "displayName": "UC_005",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_005.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Thực Vật",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 291,
+        "atk": 48,
+        "def": 25,
+        "mag": 36,
+        "res": 24,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thực Vật · UC · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_006",
+      "name": null,
+      "displayName": "UC_006",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_006.png",
+      "elementTypes": [
+        "Băng"
+      ],
+      "roles": [
+        "Pháp Sư"
+      ],
+      "clan": "Linh Thể",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 40,
+        "def": 13,
+        "mag": 55,
+        "res": 15,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Linh Thể · UC · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_007",
+      "name": null,
+      "displayName": "UC_007",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_007.png",
+      "elementTypes": [
+        "Băng"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 36,
+        "res": 15,
+        "spd": 73,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_008",
+      "name": null,
+      "displayName": "UC_008",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_008.png",
+      "elementTypes": [
+        "Gió"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 36,
+        "res": 15,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Phong Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Gió"
+        },
+        {
+          "id": "skill",
+          "name": "Phong Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Gió"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · UC · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_009",
+      "name": null,
+      "displayName": "UC_009",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_009.png",
+      "elementTypes": [
+        "Lửa"
+      ],
+      "roles": [
+        "Pháp Sư"
+      ],
+      "clan": "Phượng Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 40,
+        "def": 13,
+        "mag": 55,
+        "res": 15,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Phượng Tộc · UC · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_010",
+      "name": null,
+      "displayName": "UC_010",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_010.png",
+      "elementTypes": [
+        "Nước"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Hải Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 55,
+        "res": 24,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        },
+        {
+          "id": "skill",
+          "name": "Thủy Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Hải Tộc · UC · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_011",
+      "name": null,
+      "displayName": "UC_011",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_011.png",
+      "elementTypes": [
+        "Đất"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 291,
+        "atk": 48,
+        "def": 25,
+        "mag": 36,
+        "res": 24,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Nham Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Đất"
+        },
+        {
+          "id": "skill",
+          "name": "Nham Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Đất"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_012",
+      "name": null,
+      "displayName": "UC_012",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_012.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thực Vật",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 55,
+        "res": 24,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thực Vật · UC · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_013",
+      "name": null,
+      "displayName": "UC_013",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_013.png",
+      "elementTypes": [
+        "Bóng Tối"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 36,
+        "res": 15,
+        "spd": 73,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_014",
+      "name": null,
+      "displayName": "UC_014",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_014.png",
+      "elementTypes": [
+        "Lôi"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 36,
+        "res": 15,
+        "spd": 73,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Lôi Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lôi"
+        },
+        {
+          "id": "skill",
+          "name": "Lôi Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lôi"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_015",
+      "name": null,
+      "displayName": "UC_015",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_015.png",
+      "elementTypes": [
+        "Băng"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 55,
+        "res": 24,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_016",
+      "name": null,
+      "displayName": "UC_016",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_016.png",
+      "elementTypes": [
+        "Lửa"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Côn Trùng",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 291,
+        "atk": 48,
+        "def": 25,
+        "mag": 36,
+        "res": 24,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Côn Trùng · UC · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_017",
+      "name": null,
+      "displayName": "UC_017",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_017.png",
+      "elementTypes": [
+        "Băng"
+      ],
+      "roles": [
+        "Khống Chế"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 55,
+        "res": 15,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_018",
+      "name": null,
+      "displayName": "UC_018",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_018.png",
+      "elementTypes": [
+        "Lửa"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 36,
+        "res": 15,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_019",
+      "name": null,
+      "displayName": "UC_019",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_019.png",
+      "elementTypes": [
+        "Nước"
+      ],
+      "roles": [
+        "Pháp Sư"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 40,
+        "def": 13,
+        "mag": 55,
+        "res": 15,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        },
+        {
+          "id": "skill",
+          "name": "Thủy Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · UC · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_020",
+      "name": null,
+      "displayName": "UC_020",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_020.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 291,
+        "atk": 48,
+        "def": 25,
+        "mag": 36,
+        "res": 24,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_021",
+      "name": null,
+      "displayName": "UC_021",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_021.png",
+      "elementTypes": [
+        "Bóng Tối"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Hồ Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 36,
+        "res": 15,
+        "spd": 73,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Hồ Tộc · UC · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_022",
+      "name": null,
+      "displayName": "UC_022",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_022.png",
+      "elementTypes": [
+        "Băng"
+      ],
+      "roles": [
+        "Khống Chế"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 55,
+        "res": 15,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_023",
+      "name": null,
+      "displayName": "UC_023",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_023.png",
+      "elementTypes": [
+        "Đất"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 36,
+        "res": 15,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Nham Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Đất"
+        },
+        {
+          "id": "skill",
+          "name": "Nham Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Đất"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_024",
+      "name": null,
+      "displayName": "UC_024",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_024.png",
+      "elementTypes": [
+        "Ánh Sáng"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 55,
+        "res": 24,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Quang Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "skill",
+          "name": "Quang Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_025",
+      "name": null,
+      "displayName": "UC_025",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_025.png",
+      "elementTypes": [
+        "Lôi"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Cơ Giới",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 291,
+        "atk": 48,
+        "def": 25,
+        "mag": 36,
+        "res": 24,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Lôi Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lôi"
+        },
+        {
+          "id": "skill",
+          "name": "Lôi Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lôi"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Cơ Giới · UC · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_026",
+      "name": null,
+      "displayName": "UC_026",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_026.png",
+      "elementTypes": [
+        "Bóng Tối"
+      ],
+      "roles": [
+        "Pháp Sư"
+      ],
+      "clan": "Linh Thể",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 40,
+        "def": 13,
+        "mag": 55,
+        "res": 15,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Linh Thể · UC · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_027",
+      "name": null,
+      "displayName": "UC_027",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_027.png",
+      "elementTypes": [
+        "Đất"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Côn Trùng",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 36,
+        "res": 15,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Nham Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Đất"
+        },
+        {
+          "id": "skill",
+          "name": "Nham Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Đất"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Côn Trùng · UC · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_028",
+      "name": null,
+      "displayName": "UC_028",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_028.png",
+      "elementTypes": [
+        "Lửa"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 291,
+        "atk": 48,
+        "def": 25,
+        "mag": 36,
+        "res": 24,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · UC · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_029",
+      "name": null,
+      "displayName": "UC_029",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_029.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Tinh Linh",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 48,
+        "def": 13,
+        "mag": 55,
+        "res": 24,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Tinh Linh · UC · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UC_030",
+      "name": null,
+      "displayName": "UC_030",
+      "rarity": "UC",
+      "imagePath": "monsters/UC/UC_030.png",
+      "elementTypes": [
+        "Nước"
+      ],
+      "roles": [
+        "Pháp Sư"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 202,
+        "atk": 40,
+        "def": 13,
+        "mag": 55,
+        "res": 15,
+        "spd": 47,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        },
+        {
+          "id": "skill",
+          "name": "Thủy Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · UC · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_001",
+      "name": null,
+      "displayName": "R_001",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_001.png",
+      "elementTypes": [
+        "Lửa"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 40,
+        "res": 16,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lửa"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_002",
+      "name": null,
+      "displayName": "R_002",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_002.png",
+      "elementTypes": [
+        "Nước"
+      ],
+      "roles": [
+        "Pháp Sư"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 45,
+        "def": 15,
+        "mag": 61,
+        "res": 16,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        },
+        {
+          "id": "skill",
+          "name": "Thủy Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Nước"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · R · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_003",
+      "name": null,
+      "displayName": "R_003",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_003.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 61,
+        "res": 26,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mộc"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_004",
+      "name": null,
+      "displayName": "R_004",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_004.png",
+      "elementTypes": [
+        "Bóng Tối"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 40,
+        "res": 16,
+        "spd": 81,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · R · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_005",
+      "name": null,
+      "displayName": "R_005",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_005.png",
+      "elementTypes": [
+        "Lôi"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Điểu Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 40,
+        "res": 16,
+        "spd": 81,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Lôi Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lôi"
+        },
+        {
+          "id": "skill",
+          "name": "Lôi Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lôi"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lôi"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Điểu Tộc · R · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_006",
+      "name": null,
+      "displayName": "R_006",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_006.png",
+      "elementTypes": [
+        "Băng"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 40,
+        "res": 16,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Băng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_007",
+      "name": null,
+      "displayName": "R_007",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_007.png",
+      "elementTypes": [
+        "Đất"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Nham Thạch",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 322,
+        "atk": 53,
+        "def": 27,
+        "mag": 40,
+        "res": 26,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Nham Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Đất"
+        },
+        {
+          "id": "skill",
+          "name": "Nham Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Đất"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Đất"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Nham Thạch · R · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_008",
+      "name": null,
+      "displayName": "R_008",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_008.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Tinh Linh",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 61,
+        "res": 26,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mộc"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Tinh Linh · R · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_009",
+      "name": null,
+      "displayName": "R_009",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_009.png",
+      "elementTypes": [
+        "Lôi"
+      ],
+      "roles": [
+        "Pháp Sư"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 45,
+        "def": 15,
+        "mag": 61,
+        "res": 16,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Lôi Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lôi"
+        },
+        {
+          "id": "skill",
+          "name": "Lôi Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lôi"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lôi"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · R · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_010",
+      "name": null,
+      "displayName": "R_010",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_010.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 322,
+        "atk": 53,
+        "def": 27,
+        "mag": 40,
+        "res": 26,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mộc"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_011",
+      "name": null,
+      "displayName": "R_011",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_011.png",
+      "elementTypes": [
+        "Lửa"
+      ],
+      "roles": [
+        "Pháp Sư"
+      ],
+      "clan": "Phượng Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 45,
+        "def": 15,
+        "mag": 61,
+        "res": 16,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lửa"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Phượng Tộc · R · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_012",
+      "name": null,
+      "displayName": "R_012",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_012.png",
+      "elementTypes": [
+        "Nước"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 322,
+        "atk": 53,
+        "def": 27,
+        "mag": 40,
+        "res": 26,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        },
+        {
+          "id": "skill",
+          "name": "Thủy Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Nước"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_013",
+      "name": null,
+      "displayName": "R_013",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_013.png",
+      "elementTypes": [
+        "Bóng Tối"
+      ],
+      "roles": [
+        "Khống Chế"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 61,
+        "res": 16,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_014",
+      "name": null,
+      "displayName": "R_014",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_014.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 40,
+        "res": 16,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mộc"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_015",
+      "name": null,
+      "displayName": "R_015",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_015.png",
+      "elementTypes": [
+        "Lửa"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 40,
+        "res": 16,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lửa"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · R · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_016",
+      "name": null,
+      "displayName": "R_016",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_016.png",
+      "elementTypes": [
+        "Ánh Sáng"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 40,
+        "res": 16,
+        "spd": 81,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Quang Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "skill",
+          "name": "Quang Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_017",
+      "name": null,
+      "displayName": "R_017",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_017.png",
+      "elementTypes": [
+        "Nước"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Hải Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 61,
+        "res": 26,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        },
+        {
+          "id": "skill",
+          "name": "Thủy Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Nước"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Hải Tộc · R · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_018",
+      "name": null,
+      "displayName": "R_018",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_018.png",
+      "elementTypes": [
+        "Lửa"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 40,
+        "res": 16,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lửa"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_019",
+      "name": null,
+      "displayName": "R_019",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_019.png",
+      "elementTypes": [
+        "Băng"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 61,
+        "res": 26,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Băng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_020",
+      "name": null,
+      "displayName": "R_020",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_020.png",
+      "elementTypes": [
+        "Băng"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 40,
+        "res": 16,
+        "spd": 81,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Băng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_021",
+      "name": null,
+      "displayName": "R_021",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_021.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thực Vật",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 61,
+        "res": 26,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mộc"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thực Vật · R · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_022",
+      "name": null,
+      "displayName": "R_022",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_022.png",
+      "elementTypes": [
+        "Đất"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 322,
+        "atk": 53,
+        "def": 27,
+        "mag": 40,
+        "res": 26,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Nham Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Đất"
+        },
+        {
+          "id": "skill",
+          "name": "Nham Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Đất"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Đất"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_023",
+      "name": null,
+      "displayName": "R_023",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_023.png",
+      "elementTypes": [
+        "Băng"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 40,
+        "res": 16,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Băng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_024",
+      "name": null,
+      "displayName": "R_024",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_024.png",
+      "elementTypes": [
+        "Bóng Tối"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 40,
+        "res": 16,
+        "spd": 81,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "R_025",
+      "name": null,
+      "displayName": "R_025",
+      "rarity": "R",
+      "imagePath": "monsters/R/R_025.png",
+      "elementTypes": [
+        "Mộc"
+      ],
+      "roles": [
+        "Khống Chế"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 223,
+        "atk": 53,
+        "def": 15,
+        "mag": 61,
+        "res": 16,
+        "spd": 52,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mộc"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · R · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_001",
+      "name": null,
+      "displayName": "SR_001",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_001.png",
+      "elementTypes": [
+        "Lửa",
+        "Gió"
+      ],
+      "roles": [
+        "Pháp Sư"
+      ],
+      "clan": "Phượng Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 49,
+        "def": 16,
+        "mag": 67,
+        "res": 18,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Gió"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Phượng Tộc · SR · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_002",
+      "name": null,
+      "displayName": "SR_002",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_002.png",
+      "elementTypes": [
+        "Lôi",
+        "Gió"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Điểu Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 58,
+        "def": 16,
+        "mag": 44,
+        "res": 18,
+        "spd": 88,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Lôi Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lôi"
+        },
+        {
+          "id": "skill",
+          "name": "Lôi Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Gió"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lôi"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Điểu Tộc · SR · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_003",
+      "name": null,
+      "displayName": "SR_003",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_003.png",
+      "elementTypes": [
+        "Bóng Tối",
+        "Gió"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Côn Trùng",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 58,
+        "def": 16,
+        "mag": 44,
+        "res": 18,
+        "spd": 88,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Gió"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Côn Trùng · SR · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_004",
+      "name": null,
+      "displayName": "SR_004",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_004.png",
+      "elementTypes": [
+        "Băng",
+        "Rồng"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 58,
+        "def": 16,
+        "mag": 44,
+        "res": 18,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Rồng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · SR · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_005",
+      "name": null,
+      "displayName": "SR_005",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_005.png",
+      "elementTypes": [
+        "Bóng Tối",
+        "Hư Không"
+      ],
+      "roles": [
+        "Khống Chế"
+      ],
+      "clan": "Ma Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 58,
+        "def": 16,
+        "mag": 67,
+        "res": 18,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Hư Không"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Ma Tộc · SR · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_006",
+      "name": null,
+      "displayName": "SR_006",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_006.png",
+      "elementTypes": [
+        "Ánh Sáng",
+        "Lửa"
+      ],
+      "roles": [
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 58,
+        "def": 16,
+        "mag": 44,
+        "res": 18,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Quang Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "skill",
+          "name": "Quang Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lửa"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · SR · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_007",
+      "name": null,
+      "displayName": "SR_007",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_007.png",
+      "elementTypes": [
+        "Nước",
+        "Rồng"
+      ],
+      "roles": [
+        "Pháp Sư"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 49,
+        "def": 16,
+        "mag": 67,
+        "res": 18,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        },
+        {
+          "id": "skill",
+          "name": "Thủy Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Rồng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · SR · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_008",
+      "name": null,
+      "displayName": "SR_008",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_008.png",
+      "elementTypes": [
+        "Bóng Tối",
+        "Mộc"
+      ],
+      "roles": [
+        "Khống Chế"
+      ],
+      "clan": "Côn Trùng",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 58,
+        "def": 16,
+        "mag": 67,
+        "res": 18,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mộc"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Côn Trùng · SR · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_009",
+      "name": null,
+      "displayName": "SR_009",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_009.png",
+      "elementTypes": [
+        "Băng",
+        "Đất"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 354,
+        "atk": 58,
+        "def": 30,
+        "mag": 44,
+        "res": 29,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Đất"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · SR · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_010",
+      "name": null,
+      "displayName": "SR_010",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_010.png",
+      "elementTypes": [
+        "Lôi",
+        "Ánh Sáng"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 58,
+        "def": 16,
+        "mag": 44,
+        "res": 18,
+        "spd": 88,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Lôi Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lôi"
+        },
+        {
+          "id": "skill",
+          "name": "Lôi Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lôi"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · SR · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_011",
+      "name": null,
+      "displayName": "SR_011",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_011.png",
+      "elementTypes": [
+        "Bóng Tối",
+        "Gió"
+      ],
+      "roles": [
+        "Pháp Sư"
+      ],
+      "clan": "Phượng Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 49,
+        "def": 16,
+        "mag": 67,
+        "res": 18,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Gió"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Phượng Tộc · SR · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_012",
+      "name": null,
+      "displayName": "SR_012",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_012.png",
+      "elementTypes": [
+        "Mộc",
+        "Đất"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Thực Vật",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 354,
+        "atk": 58,
+        "def": 30,
+        "mag": 44,
+        "res": 29,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Đất"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thực Vật · SR · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_013",
+      "name": null,
+      "displayName": "SR_013",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_013.png",
+      "elementTypes": [
+        "Lửa",
+        "Đất"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Côn Trùng",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 354,
+        "atk": 58,
+        "def": 30,
+        "mag": 44,
+        "res": 29,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Đất"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Côn Trùng · SR · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_014",
+      "name": null,
+      "displayName": "SR_014",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_014.png",
+      "elementTypes": [
+        "Ánh Sáng",
+        "Gió"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 58,
+        "def": 16,
+        "mag": 67,
+        "res": 29,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Quang Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "skill",
+          "name": "Quang Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Gió"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · SR · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_015",
+      "name": null,
+      "displayName": "SR_015",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_015.png",
+      "elementTypes": [
+        "Nước",
+        "Tiên"
+      ],
+      "roles": [
+        "Pháp Sư"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 49,
+        "def": 16,
+        "mag": 67,
+        "res": 18,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        },
+        {
+          "id": "skill",
+          "name": "Thủy Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Tiên"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · SR · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_016",
+      "name": null,
+      "displayName": "SR_016",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_016.png",
+      "elementTypes": [
+        "Băng",
+        "Gió"
+      ],
+      "roles": [
+        "Khống Chế"
+      ],
+      "clan": "Phượng Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 58,
+        "def": 16,
+        "mag": 67,
+        "res": 18,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Gió"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Phượng Tộc · SR · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_017",
+      "name": null,
+      "displayName": "SR_017",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_017.png",
+      "elementTypes": [
+        "Đất",
+        "Lôi"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 354,
+        "atk": 58,
+        "def": 30,
+        "mag": 44,
+        "res": 29,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Nham Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Đất"
+        },
+        {
+          "id": "skill",
+          "name": "Nham Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lôi"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Đất"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · SR · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_018",
+      "name": null,
+      "displayName": "SR_018",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_018.png",
+      "elementTypes": [
+        "Mộc",
+        "Tiên"
+      ],
+      "roles": [
+        "Hỗ Trợ"
+      ],
+      "clan": "Thực Vật",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 58,
+        "def": 16,
+        "mag": 67,
+        "res": 29,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Tiên"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thực Vật · SR · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_019",
+      "name": null,
+      "displayName": "SR_019",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_019.png",
+      "elementTypes": [
+        "Bóng Tối",
+        "Hư Không"
+      ],
+      "roles": [
+        "Sát Thủ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 245,
+        "atk": 58,
+        "def": 16,
+        "mag": 44,
+        "res": 18,
+        "spd": 88,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Hư Không"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · SR · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SR_020",
+      "name": null,
+      "displayName": "SR_020",
+      "rarity": "SR",
+      "imagePath": "monsters/SR/SR_020.png",
+      "elementTypes": [
+        "Băng",
+        "Đất"
+      ],
+      "roles": [
+        "Đỡ Đòn"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 354,
+        "atk": 58,
+        "def": 30,
+        "mag": 44,
+        "res": 29,
+        "spd": 57,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Đất"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · SR · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_001",
+      "name": "Lunarix – Hồ Ly Cửu Vĩ",
+      "displayName": "Lunarix – Hồ Ly Cửu Vĩ",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_001.png",
+      "elementTypes": [
+        "Mặt Trăng",
+        "Tiên"
+      ],
+      "roles": [
+        "Sát Thủ",
+        "Đấu Sĩ"
+      ],
+      "clan": "Hồ Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 266,
+        "atk": 64,
+        "def": 18,
+        "mag": 47,
+        "res": 19,
+        "spd": 96,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Nguyệt Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mặt Trăng"
+        },
+        {
+          "id": "skill",
+          "name": "Nguyệt Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Tiên"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Mặt Trăng"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Nguyệt",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Mặt Trăng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Hồ Tộc · SSR · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_002",
+      "name": "Hắc Nguyệt Long Hồ",
+      "displayName": "Hắc Nguyệt Long Hồ",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_002.png",
+      "elementTypes": [
+        "Bóng Tối",
+        "Mặt Trăng"
+      ],
+      "roles": [
+        "Đấu Sĩ",
+        "Đỡ Đòn"
+      ],
+      "clan": "Hồ Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 266,
+        "atk": 64,
+        "def": 18,
+        "mag": 47,
+        "res": 19,
+        "spd": 62,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mặt Trăng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Ám",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Hồ Tộc · SSR · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_003",
+      "name": "Aetherluna – Thiên Nguyệt Linh Hồ",
+      "displayName": "Aetherluna – Thiên Nguyệt Linh Hồ",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_003.png",
+      "elementTypes": [
+        "Ánh Sáng",
+        "Mặt Trăng"
+      ],
+      "roles": [
+        "Hỗ Trợ",
+        "Pháp Sư"
+      ],
+      "clan": "Hồ Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 266,
+        "atk": 64,
+        "def": 18,
+        "mag": 73,
+        "res": 31,
+        "spd": 62,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Quang Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "skill",
+          "name": "Quang Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mặt Trăng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Quang",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Hồ Tộc · SSR · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_004",
+      "name": null,
+      "displayName": "SSR_004",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_004.png",
+      "elementTypes": [
+        "Mộc",
+        "Ánh Sáng"
+      ],
+      "roles": [
+        "Hỗ Trợ",
+        "Pháp Sư"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 266,
+        "atk": 64,
+        "def": 18,
+        "mag": 73,
+        "res": 31,
+        "spd": 62,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Mộc"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Mộc",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · SSR · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_005",
+      "name": null,
+      "displayName": "SSR_005",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_005.png",
+      "elementTypes": [
+        "Bóng Tối",
+        "Mặt Trăng"
+      ],
+      "roles": [
+        "Khống Chế",
+        "Pháp Sư"
+      ],
+      "clan": "Hồ Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 266,
+        "atk": 64,
+        "def": 18,
+        "mag": 73,
+        "res": 19,
+        "spd": 62,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mặt Trăng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Ám",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Hồ Tộc · SSR · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_006",
+      "name": null,
+      "displayName": "SSR_006",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_006.png",
+      "elementTypes": [
+        "Băng",
+        "Rồng"
+      ],
+      "roles": [
+        "Đấu Sĩ",
+        "Đỡ Đòn"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 266,
+        "atk": 64,
+        "def": 18,
+        "mag": 47,
+        "res": 19,
+        "spd": 62,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Rồng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Băng"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Băng",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · SSR · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_007",
+      "name": null,
+      "displayName": "SSR_007",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_007.png",
+      "elementTypes": [
+        "Lôi",
+        "Ánh Sáng"
+      ],
+      "roles": [
+        "Sát Thủ",
+        "Đấu Sĩ"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 266,
+        "atk": 64,
+        "def": 18,
+        "mag": 47,
+        "res": 19,
+        "spd": 96,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Lôi Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lôi"
+        },
+        {
+          "id": "skill",
+          "name": "Lôi Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lôi"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Lôi",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Lôi"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · SSR · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_008",
+      "name": null,
+      "displayName": "SSR_008",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_008.png",
+      "elementTypes": [
+        "Tiên",
+        "Mộc"
+      ],
+      "roles": [
+        "Hỗ Trợ",
+        "Pháp Sư"
+      ],
+      "clan": "Tinh Linh",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 266,
+        "atk": 64,
+        "def": 18,
+        "mag": 73,
+        "res": 31,
+        "spd": 62,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Linh Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Tiên"
+        },
+        {
+          "id": "skill",
+          "name": "Linh Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mộc"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Tiên"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Linh",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Tiên"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Tinh Linh · SSR · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_009",
+      "name": null,
+      "displayName": "SSR_009",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_009.png",
+      "elementTypes": [
+        "Đất",
+        "Lửa"
+      ],
+      "roles": [
+        "Đỡ Đòn",
+        "Đấu Sĩ"
+      ],
+      "clan": "Nham Thạch",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 385,
+        "atk": 64,
+        "def": 33,
+        "mag": 47,
+        "res": 31,
+        "spd": 62,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Nham Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Đất"
+        },
+        {
+          "id": "skill",
+          "name": "Nham Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lửa"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Đất"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Nham",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Đất"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Nham Thạch · SSR · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_010",
+      "name": null,
+      "displayName": "SSR_010",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_010.png",
+      "elementTypes": [
+        "Băng",
+        "Mặt Trăng"
+      ],
+      "roles": [
+        "Khống Chế",
+        "Pháp Sư"
+      ],
+      "clan": "Hồ Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 266,
+        "atk": 64,
+        "def": 18,
+        "mag": 73,
+        "res": 19,
+        "spd": 62,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mặt Trăng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Băng"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Băng",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Hồ Tộc · SSR · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_011",
+      "name": null,
+      "displayName": "SSR_011",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_011.png",
+      "elementTypes": [
+        "Bóng Tối",
+        "Hư Không"
+      ],
+      "roles": [
+        "Đấu Sĩ",
+        "Đỡ Đòn"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 266,
+        "atk": 64,
+        "def": 18,
+        "mag": 47,
+        "res": 19,
+        "spd": 62,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Hư Không"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Ám",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · SSR · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_012",
+      "name": null,
+      "displayName": "SSR_012",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_012.png",
+      "elementTypes": [
+        "Lửa",
+        "Ánh Sáng"
+      ],
+      "roles": [
+        "Pháp Sư",
+        "Hỗ Trợ"
+      ],
+      "clan": "Phượng Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 266,
+        "atk": 53,
+        "def": 18,
+        "mag": 73,
+        "res": 19,
+        "spd": 62,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lửa"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Hỏa",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Phượng Tộc · SSR · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_013",
+      "name": null,
+      "displayName": "SSR_013",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_013.png",
+      "elementTypes": [
+        "Lôi",
+        "Gió"
+      ],
+      "roles": [
+        "Sát Thủ",
+        "Đấu Sĩ"
+      ],
+      "clan": "Điểu Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 266,
+        "atk": 64,
+        "def": 18,
+        "mag": 47,
+        "res": 19,
+        "spd": 96,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Lôi Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lôi"
+        },
+        {
+          "id": "skill",
+          "name": "Lôi Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Gió"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lôi"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Lôi",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Lôi"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Điểu Tộc · SSR · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_014",
+      "name": null,
+      "displayName": "SSR_014",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_014.png",
+      "elementTypes": [
+        "Băng",
+        "Tiên"
+      ],
+      "roles": [
+        "Hỗ Trợ",
+        "Pháp Sư"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 266,
+        "atk": 64,
+        "def": 18,
+        "mag": 73,
+        "res": 31,
+        "spd": 62,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Tiên"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Băng"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Băng",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Thú Tộc · SSR · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "SSR_015",
+      "name": null,
+      "displayName": "SSR_015",
+      "rarity": "SSR",
+      "imagePath": "monsters/SSR/SSR_015.png",
+      "elementTypes": [
+        "Lửa",
+        "Bóng Tối"
+      ],
+      "roles": [
+        "Đấu Sĩ",
+        "Đỡ Đòn"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 266,
+        "atk": 64,
+        "def": 18,
+        "mag": 47,
+        "res": 19,
+        "spd": 62,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lửa"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Hỏa",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "singleplayer-design",
+      "description": "Long Tộc · SSR · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UR_001",
+      "name": "Thiên Lôi Thần Long",
+      "displayName": "Thiên Lôi Thần Long",
+      "rarity": "UR",
+      "imagePath": "monsters/UR/UR_001.png",
+      "elementTypes": [
+        "Lôi",
+        "Rồng",
+        "Ánh Sáng"
+      ],
+      "roles": [
+        "Đấu Sĩ",
+        "Đỡ Đòn"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 288,
+        "atk": 69,
+        "def": 19,
+        "mag": 51,
+        "res": 21,
+        "spd": 67,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Lôi Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lôi"
+        },
+        {
+          "id": "skill",
+          "name": "Lôi Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Rồng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lôi"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Lôi",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Lôi"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Long Tộc · UR · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UR_002",
+      "name": "Hỏa Diệm Phượng Đế",
+      "displayName": "Hỏa Diệm Phượng Đế",
+      "rarity": "UR",
+      "imagePath": "monsters/UR/UR_002.png",
+      "elementTypes": [
+        "Lửa",
+        "Ánh Sáng",
+        "Gió"
+      ],
+      "roles": [
+        "Pháp Sư",
+        "Hỗ Trợ"
+      ],
+      "clan": "Phượng Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 288,
+        "atk": 58,
+        "def": 19,
+        "mag": 78,
+        "res": 21,
+        "spd": 67,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lửa"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Hỏa",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Phượng Tộc · UR · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UR_003",
+      "name": "Băng Vương Cửu Vĩ",
+      "displayName": "Băng Vương Cửu Vĩ",
+      "rarity": "UR",
+      "imagePath": "monsters/UR/UR_003.png",
+      "elementTypes": [
+        "Băng",
+        "Mặt Trăng",
+        "Tiên"
+      ],
+      "roles": [
+        "Khống Chế",
+        "Pháp Sư"
+      ],
+      "clan": "Hồ Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 288,
+        "atk": 69,
+        "def": 19,
+        "mag": 78,
+        "res": 21,
+        "spd": 67,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mặt Trăng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Băng"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Băng",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Băng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Hồ Tộc · UR · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UR_004",
+      "name": "Hắc Ám Ma Long",
+      "displayName": "Hắc Ám Ma Long",
+      "rarity": "UR",
+      "imagePath": "monsters/UR/UR_004.png",
+      "elementTypes": [
+        "Bóng Tối",
+        "Rồng",
+        "Hư Không"
+      ],
+      "roles": [
+        "Đấu Sĩ",
+        "Đỡ Đòn"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 288,
+        "atk": 69,
+        "def": 19,
+        "mag": 51,
+        "res": 21,
+        "spd": 67,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Ám Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "skill",
+          "name": "Ám Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Rồng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Ám",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Long Tộc · UR · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UR_005",
+      "name": "Hải Thần Long Vương",
+      "displayName": "Hải Thần Long Vương",
+      "rarity": "UR",
+      "imagePath": "monsters/UR/UR_005.png",
+      "elementTypes": [
+        "Nước",
+        "Rồng",
+        "Băng"
+      ],
+      "roles": [
+        "Đỡ Đòn",
+        "Đấu Sĩ"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 416,
+        "atk": 69,
+        "def": 35,
+        "mag": 51,
+        "res": 34,
+        "spd": 67,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thủy Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Nước"
+        },
+        {
+          "id": "skill",
+          "name": "Thủy Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Rồng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Nước"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Thủy",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Nước"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Long Tộc · UR · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UR_006",
+      "name": "Sinh Mệnh Thần Thú",
+      "displayName": "Sinh Mệnh Thần Thú",
+      "rarity": "UR",
+      "imagePath": "monsters/UR/UR_006.png",
+      "elementTypes": [
+        "Mộc",
+        "Ánh Sáng",
+        "Tiên"
+      ],
+      "roles": [
+        "Hỗ Trợ",
+        "Pháp Sư"
+      ],
+      "clan": "Thú Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 288,
+        "atk": 69,
+        "def": 19,
+        "mag": 78,
+        "res": 34,
+        "spd": 67,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Mộc Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mộc"
+        },
+        {
+          "id": "skill",
+          "name": "Mộc Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Mộc"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Mộc",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Mộc"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Thú Tộc · UR · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UR_007",
+      "name": "Thái Dương Kim Ô",
+      "displayName": "Thái Dương Kim Ô",
+      "rarity": "UR",
+      "imagePath": "monsters/UR/UR_007.png",
+      "elementTypes": [
+        "Lửa",
+        "Ánh Sáng",
+        "Gió"
+      ],
+      "roles": [
+        "Pháp Sư",
+        "Hỗ Trợ"
+      ],
+      "clan": "Thần Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 288,
+        "atk": 58,
+        "def": 19,
+        "mag": 78,
+        "res": 21,
+        "spd": 67,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lửa"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Hỏa",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Lửa"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Thần Tộc · UR · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UR_008",
+      "name": "Nguyệt Thực Hồ Đế",
+      "displayName": "Nguyệt Thực Hồ Đế",
+      "rarity": "UR",
+      "imagePath": "monsters/UR/UR_008.png",
+      "elementTypes": [
+        "Mặt Trăng",
+        "Bóng Tối",
+        "Hư Không"
+      ],
+      "roles": [
+        "Sát Thủ",
+        "Đấu Sĩ"
+      ],
+      "clan": "Hồ Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 288,
+        "atk": 69,
+        "def": 19,
+        "mag": 51,
+        "res": 21,
+        "spd": 104,
+        "crit": 20,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Nguyệt Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Mặt Trăng"
+        },
+        {
+          "id": "skill",
+          "name": "Nguyệt Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Mặt Trăng"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Nguyệt",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Mặt Trăng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Hồ Tộc · UR · Vai trò chính Sát Thủ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UR_009",
+      "name": "Tinh Không Long Thần",
+      "displayName": "Tinh Không Long Thần",
+      "rarity": "UR",
+      "imagePath": "monsters/UR/UR_009.png",
+      "elementTypes": [
+        "Không Gian",
+        "Rồng",
+        "Thời Gian"
+      ],
+      "roles": [
+        "Pháp Sư",
+        "Hỗ Trợ"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 288,
+        "atk": 58,
+        "def": 19,
+        "mag": 78,
+        "res": 21,
+        "spd": 67,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Không Gian Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Không Gian"
+        },
+        {
+          "id": "skill",
+          "name": "Không Gian Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Rồng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Không Gian"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Không Gian",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Không Gian"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Long Tộc · UR · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UR_010",
+      "name": "Kiếm Thần Thiên Đế",
+      "displayName": "Kiếm Thần Thiên Đế",
+      "rarity": "UR",
+      "imagePath": "monsters/UR/UR_010.png",
+      "elementTypes": [
+        "Ánh Sáng",
+        "Lôi",
+        "Thần"
+      ],
+      "roles": [
+        "Đấu Sĩ",
+        "Đỡ Đòn"
+      ],
+      "clan": "Thần Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 288,
+        "atk": 69,
+        "def": 19,
+        "mag": 51,
+        "res": 21,
+        "spd": 67,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Quang Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "skill",
+          "name": "Quang Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Lôi"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Quang",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Thần Tộc · UR · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UR_011",
+      "name": "Hư Không Chi Chủ",
+      "displayName": "Hư Không Chi Chủ",
+      "rarity": "UR",
+      "imagePath": "monsters/UR/UR_011.png",
+      "elementTypes": [
+        "Hư Không",
+        "Bóng Tối",
+        "Không Gian"
+      ],
+      "roles": [
+        "Khống Chế",
+        "Pháp Sư"
+      ],
+      "clan": "Hỗn Độn",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 288,
+        "atk": 69,
+        "def": 19,
+        "mag": 78,
+        "res": 21,
+        "spd": 67,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hư Không Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Hư Không"
+        },
+        {
+          "id": "skill",
+          "name": "Hư Không Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Hư Không"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Hư Không",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Hư Không"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Hỗn Độn · UR · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "UR_012",
+      "name": "Pha Lê Thánh Long",
+      "displayName": "Pha Lê Thánh Long",
+      "rarity": "UR",
+      "imagePath": "monsters/UR/UR_012.png",
+      "elementTypes": [
+        "Đất",
+        "Ánh Sáng",
+        "Rồng"
+      ],
+      "roles": [
+        "Đỡ Đòn",
+        "Đấu Sĩ"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 416,
+        "atk": 69,
+        "def": 35,
+        "mag": 51,
+        "res": 34,
+        "spd": 67,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Nham Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Đất"
+        },
+        {
+          "id": "skill",
+          "name": "Nham Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Đất"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Nham",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Đất"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Long Tộc · UR · Vai trò chính Đỡ Đòn. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "EX_001",
+      "name": "Raiyomikaze – Lôi Viêm Thiên Thực Đế",
+      "displayName": "Raiyomikaze – Lôi Viêm Thiên Thực Đế",
+      "rarity": "EX",
+      "imagePath": "monsters/EX/EX_001.png",
+      "elementTypes": [
+        "Lôi",
+        "Rồng",
+        "Lửa",
+        "Bóng Tối"
+      ],
+      "roles": [
+        "Đấu Sĩ",
+        "Đỡ Đòn",
+        "Sát Thủ"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 310,
+        "atk": 74,
+        "def": 21,
+        "mag": 55,
+        "res": 22,
+        "spd": 72,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Lôi Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lôi"
+        },
+        {
+          "id": "skill",
+          "name": "Lôi Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Rồng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lôi"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Lôi",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Lôi"
+        },
+        {
+          "id": "ultimate",
+          "name": "Thiên Uy Lôi",
+          "kind": "damage",
+          "power": 2.2,
+          "cooldown": 5,
+          "element": "Bóng Tối"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Long Tộc · EX · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "EX_002",
+      "name": "Zeusryon",
+      "displayName": "Zeusryon",
+      "rarity": "EX",
+      "imagePath": "monsters/EX/EX_002.png",
+      "elementTypes": [
+        "Lôi",
+        "Rồng",
+        "Thần",
+        "Ánh Sáng"
+      ],
+      "roles": [
+        "Pháp Sư",
+        "Hỗ Trợ",
+        "Khống Chế"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 310,
+        "atk": 62,
+        "def": 21,
+        "mag": 84,
+        "res": 22,
+        "spd": 72,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Lôi Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lôi"
+        },
+        {
+          "id": "skill",
+          "name": "Lôi Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Rồng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lôi"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Lôi",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Lôi"
+        },
+        {
+          "id": "ultimate",
+          "name": "Thiên Uy Lôi",
+          "kind": "damage",
+          "power": 2.2,
+          "cooldown": 5,
+          "element": "Ánh Sáng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Long Tộc · EX · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "EX_003",
+      "name": "Inferaphix",
+      "displayName": "Inferaphix",
+      "rarity": "EX",
+      "imagePath": "monsters/EX/EX_003.png",
+      "elementTypes": [
+        "Lửa",
+        "Ánh Sáng",
+        "Gió",
+        "Thần"
+      ],
+      "roles": [
+        "Pháp Sư",
+        "Hỗ Trợ",
+        "Khống Chế"
+      ],
+      "clan": "Phượng Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 310,
+        "atk": 62,
+        "def": 21,
+        "mag": 84,
+        "res": 22,
+        "spd": 72,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hỏa Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Lửa"
+        },
+        {
+          "id": "skill",
+          "name": "Hỏa Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Ánh Sáng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Lửa"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Hỏa",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Lửa"
+        },
+        {
+          "id": "ultimate",
+          "name": "Thiên Uy Hỏa",
+          "kind": "damage",
+          "power": 2.2,
+          "cooldown": 5,
+          "element": "Thần"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Phượng Tộc · EX · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "EX_004",
+      "name": "Voidragnar",
+      "displayName": "Voidragnar",
+      "rarity": "EX",
+      "imagePath": "monsters/EX/EX_004.png",
+      "elementTypes": [
+        "Hư Không",
+        "Bóng Tối",
+        "Rồng",
+        "Không Gian"
+      ],
+      "roles": [
+        "Đấu Sĩ",
+        "Đỡ Đòn",
+        "Sát Thủ"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 310,
+        "atk": 74,
+        "def": 21,
+        "mag": 55,
+        "res": 22,
+        "spd": 72,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hư Không Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Hư Không"
+        },
+        {
+          "id": "skill",
+          "name": "Hư Không Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Bóng Tối"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Hư Không"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Hư Không",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Hư Không"
+        },
+        {
+          "id": "ultimate",
+          "name": "Thiên Uy Hư Không",
+          "kind": "damage",
+          "power": 2.2,
+          "cooldown": 5,
+          "element": "Không Gian"
+        }
+      ],
+      "damageType": "Vật lý",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Long Tộc · EX · Vai trò chính Đấu Sĩ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "EX_005",
+      "name": "Cryolunaris",
+      "displayName": "Cryolunaris",
+      "rarity": "EX",
+      "imagePath": "monsters/EX/EX_005.png",
+      "elementTypes": [
+        "Băng",
+        "Mặt Trăng",
+        "Tiên",
+        "Ánh Sáng"
+      ],
+      "roles": [
+        "Hỗ Trợ",
+        "Pháp Sư",
+        "Khống Chế"
+      ],
+      "clan": "Hồ Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 310,
+        "atk": 74,
+        "def": 21,
+        "mag": 84,
+        "res": 36,
+        "spd": 72,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Mặt Trăng"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Băng"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Băng",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Băng"
+        },
+        {
+          "id": "ultimate",
+          "name": "Thiên Uy Băng",
+          "kind": "damage",
+          "power": 2.2,
+          "cooldown": 5,
+          "element": "Ánh Sáng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Hồ Tộc · EX · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "EX_006",
+      "name": "Chronoxis",
+      "displayName": "Chronoxis",
+      "rarity": "EX",
+      "imagePath": "monsters/EX/EX_006.png",
+      "elementTypes": [
+        "Thời Gian",
+        "Không Gian",
+        "Rồng",
+        "Hư Không"
+      ],
+      "roles": [
+        "Pháp Sư",
+        "Hỗ Trợ",
+        "Khống Chế"
+      ],
+      "clan": "Long Tộc",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 310,
+        "atk": 62,
+        "def": 21,
+        "mag": 84,
+        "res": 22,
+        "spd": 72,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Thời Gian Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Thời Gian"
+        },
+        {
+          "id": "skill",
+          "name": "Thời Gian Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Không Gian"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Thời Gian"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Thời Gian",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Thời Gian"
+        },
+        {
+          "id": "ultimate",
+          "name": "Thiên Uy Thời Gian",
+          "kind": "damage",
+          "power": 2.2,
+          "cooldown": 5,
+          "element": "Hư Không"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "legacy-profile-with-singleplayer-stats",
+      "description": "Long Tộc · EX · Vai trò chính Pháp Sư. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "EX_007",
+      "name": null,
+      "displayName": "EX_007",
+      "rarity": "EX",
+      "imagePath": "monsters/EX/EX_007.png",
+      "elementTypes": [
+        "Băng",
+        "Tiên",
+        "Mặt Trăng",
+        "Ánh Sáng"
+      ],
+      "roles": [
+        "Hỗ Trợ",
+        "Pháp Sư",
+        "Khống Chế"
+      ],
+      "clan": "Tinh Linh",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 310,
+        "atk": 74,
+        "def": 21,
+        "mag": 84,
+        "res": 36,
+        "spd": 72,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Băng Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Băng"
+        },
+        {
+          "id": "skill",
+          "name": "Băng Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Tiên"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Băng"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Băng",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Băng"
+        },
+        {
+          "id": "ultimate",
+          "name": "Thiên Uy Băng",
+          "kind": "damage",
+          "power": 2.2,
+          "cooldown": 5,
+          "element": "Ánh Sáng"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Tinh Linh · EX · Vai trò chính Hỗ Trợ. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    },
+    {
+      "id": "EX_008",
+      "name": null,
+      "displayName": "EX_008",
+      "rarity": "EX",
+      "imagePath": "monsters/EX/EX_008.png",
+      "elementTypes": [
+        "Hư Không",
+        "Thời Gian",
+        "Bóng Tối",
+        "Không Gian"
+      ],
+      "roles": [
+        "Khống Chế",
+        "Pháp Sư",
+        "Hỗ Trợ"
+      ],
+      "clan": "Hỗn Độn",
+      "identityStatus": "provisional",
+      "baseStats": {
+        "hp": 310,
+        "atk": 74,
+        "def": 21,
+        "mag": 84,
+        "res": 22,
+        "spd": 72,
+        "crit": 8,
+        "critDmg": 150
+      },
+      "skills": [
+        {
+          "id": "attack",
+          "name": "Hư Không Kích",
+          "kind": "damage",
+          "power": 1,
+          "cooldown": 0,
+          "element": "Hư Không"
+        },
+        {
+          "id": "skill",
+          "name": "Hư Không Bộc Phát",
+          "kind": "damage",
+          "power": 1.6,
+          "cooldown": 3,
+          "element": "Thời Gian"
+        },
+        {
+          "id": "heal",
+          "name": "Sinh Lực Hồi Phục",
+          "kind": "heal",
+          "power": 1,
+          "cooldown": 3,
+          "element": "Hư Không"
+        },
+        {
+          "id": "shield",
+          "name": "Hộ Thể Hư Không",
+          "kind": "shield",
+          "power": 0.5,
+          "cooldown": 3,
+          "element": "Hư Không"
+        },
+        {
+          "id": "ultimate",
+          "name": "Thiên Uy Hư Không",
+          "kind": "damage",
+          "power": 2.2,
+          "cooldown": 5,
+          "element": "Không Gian"
+        }
+      ],
+      "damageType": "Phép",
+      "profileStatus": "singleplayer-design",
+      "description": "Hỗn Độn · EX · Vai trò chính Khống Chế. Hồ sơ thiết kế cho bản chơi đơn; hình và danh tính đang đối chiếu."
+    }
+  ]
+}
