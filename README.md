@@ -1,8 +1,13 @@
-# ETERNAL Monster Archive
+# ETERNAL 8.4 + Pokédex 150
 
-Pokédex 150 ID với tìm kiếm, lọc độ hiếm, yêu thích và đội hình tối đa 6 quái.
+Game restored from eternal-balanced-8.4-mobile.zip in the original ChatGPT conversation.
 
-Ứng dụng tĩnh: toàn bộ ảnh, CSS và JavaScript đã nhúng trong index.html. Mở trực tiếp hoặc triển khai bằng GitHub Pages, nhánh main, thư mục gốc.
+index.html preserves the original 8.4 game: Gacha, collection counts, 150 stages, quests, trainer EXP, arena demo, monster profiles, counter calculator, balance rules, data import/export and other original menu screens.
 
-Lựa chọn lưu trên thiết bị. Chưa có gacha, chiến đấu, tiền tệ hoặc đồng bộ tài khoản. Ảnh là bản thô; tên và danh tính một số quái đang được đối chiếu.
+archive.html preserves the 150-image Pokédex, search, rarity filters, favorites and a six-slot reference team.
 
+The game save continues to use eternal-mobile-test-v1. The archive keeps eternal_archive_choices_v1. Loading the game does not debit currency or reset saves. Saves from another domain must be imported using the original JSON import control.
+
+Original limitations remain: collection stores counts, advanced Boss/fusion/eggs/tower/crafting contain unfinished demo screens; counter rules are not applied to simulated PvE. Images are rough and species identities provisional. This release restores the original implementation; it does not claim those unfinished systems are complete.
+
+Publish index.html and archive.html at repository root with GitHub Pages.
