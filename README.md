@@ -1,13 +1,13 @@
-# ETERNAL 8.4 + Pokédex 150
+# ETERNAL · Chơi đơn
 
-Game restored from eternal-balanced-8.4-mobile.zip in the original ChatGPT conversation.
+Game trên GitHub Pages: https://sinzxjee.github.io/eternal-webapp/
 
-index.html preserves the original 8.4 game: Gacha, collection counts, 150 stages, quests, trainer EXP, arena demo, monster profiles, counter calculator, balance rules, data import/export and other original menu screens.
+Có Gacha 3/9 với ảnh và bảo hiểm SSR, kho từng bản quái, đội hình tối đa 6, chiến đấu theo lượt, 150 ải, Boss, chốt Boss Gacha từ vòng 30, tháp, đấu trường AI, dung hợp, trứng, chế tạo, trang bị, nâng cấp, nhiệm vụ, thành tựu, cổ vật, nhật ký, xuất/nhập JSON và tiếp tục trận đang chơi sau khi tải lại.
 
-archive.html preserves the 150-image Pokédex, search, rarity filters, favorites and a six-slot reference team.
+Bản lưu chơi đơn dùng `eternal-singleplayer-v1`. Đọc bản cũ `eternal-mobile-test-v1` khi chưa có bản mới, giữ tổng thẻ và tài nguyên. Dữ liệu bản cũ không bị xóa. 29 hồ sơ thẻ hiếm được khớp theo dữ liệu cũ; 54 thẻ thấp chưa có danh tính giữ ở kho Legacy, không tự đổi thành loài ngẫu nhiên. Những quái UR cũ nằm ngoài catalog 150 vẫn tồn tại với hồ sơ Legacy.
 
-The game save continues to use eternal-mobile-test-v1. The archive keeps eternal_archive_choices_v1. Loading the game does not debit currency or reset saves. Saves from another domain must be imported using the original JSON import control.
+Ảnh cắt thô và tên chưa đối chiếu hoàn toàn. Chỉ số và hệ cho loài chưa có hồ sơ là thiết kế chơi đơn, không phải xác nhận dữ liệu gốc. Đội hình chiến đấu dùng thẻ sở hữu trong menu Đội hình; đội hình tại trang archive là danh sách tham khảo.
 
-Original limitations remain: collection stores counts, advanced Boss/fusion/eggs/tower/crafting contain unfinished demo screens; counter rules are not applied to simulated PvE. Images are rough and species identities provisional. This release restores the original implementation; it does not claim those unfinished systems are complete.
+Lưu trên một trình duyệt; không có tài khoản hoặc đồng bộ online. Xuất JSON trước khi xóa dữ liệu trình duyệt hoặc đổi máy. Mỗi trận thắng nhận thưởng một lần. Trứng ấp sau ba trận thắng. Công thức cũ 10 R → 10 SR được giữ; UR → EX cần 10 UR và một mảnh dung hợp III.
 
-Publish index.html and archive.html at repository root with GitHub Pages.
+Các file deploy: index.html, catalog.js, singleplayer.js, archive.html, .nojekyll. Không tải ZIP làm trang chủ.
