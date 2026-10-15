@@ -33,7 +33,7 @@
   </main>
   <dialog id="detail" aria-labelledby="detail-name"><button id="close-detail" class="close" aria-label="Đóng chi tiết">×</button><div class="detail-art"><img id="detail-image" alt=""></div><div class="detail-content"><div class="detail-meta"><span id="detail-tier" class="tier"></span><span id="detail-id"></span></div><h2 id="detail-name"></h2><p id="detail-description"></p><div class="detail-info"><div><span>HỆ NGUYÊN TỐ</span><b id="detail-elements"></b></div><div><span>VAI TRÒ</span><b id="detail-roles"></b></div></div><div class="detail-actions"><button id="detail-team" class="primary"></button><button id="detail-favorite" class="secondary"></button></div><p class="detail-note">Ảnh bản thô. Một số tên và hình đang được đối chiếu.</p><div class="detail-pagination"><button id="prev" aria-label="Quái trước">← Trước</button><button id="next" aria-label="Quái sau">Tiếp →</button></div></div></dialog>
   <div id="toast" class="toast" role="status" hidden></div>
-<script src="catalog.js"></script><script>'use strict';
+<script src="catalog.js?v=profiles-1"></script><script>'use strict';
 const $=id=>document.getElementById(id), dex=EternalDex.monsters, validIds=new Set(dex.map(m=>m.id)), ranks=['C','UC','R','SR','SSR','UR','EX'];
 const STORE='eternal_archive_choices_v1';
 let favorites=new Set(),team=[],view='all',tier='all',query='',sort='id',currentId=null,toastTimer;
@@ -58,4 +58,4 @@ document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA','SE
 $('export-save').addEventListener('click',()=>{const blob=new Blob([JSON.stringify({app:'ETERNAL_ARCHIVE',version:1,favorites:[...favorites],team},null,2)],{type:'application/json'});const a=document.createElement('a');const url=URL.createObjectURL(blob);a.href=url;a.download='eternal-lua-chon.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);});
 $('import-save').addEventListener('change',async e=>{const file=e.target.files[0];if(!file)return;try{if(file.size>100000)throw Error();const data=JSON.parse(await file.text());if(data.app!=='ETERNAL_ARCHIVE'||!Array.isArray(data.favorites)||!Array.isArray(data.team))throw Error();favorites=new Set([...favorites,...data.favorites.filter(id=>validIds.has(id))]);team=[...new Set([...team,...data.team.filter(id=>validIds.has(id))])].slice(0,6);persist();render();notify('Đã khôi phục và hợp nhất lựa chọn.');}catch{notify('Tệp không hợp lệ. Hãy dùng bản sao lưu ETERNAL.');}e.target.value='';});
 render();
-</script><link rel="stylesheet" href="archive-ui.css"><script src="archive-profile.js"></script></body></html>
+</script><link rel="stylesheet" href="archive-ui.css?v=profiles-1"><script src="archive-profile.js?v=profiles-1"></script></body></html>
